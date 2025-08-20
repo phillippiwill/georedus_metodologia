@@ -2,7 +2,7 @@
 
 ## Descrição
 
-Presença de instalações de Atendimento Hospitalar.
+Indica se o hospital possui instalações de Atendimento Hospitalar.
 
 - **Valor:** absoluto
 - **Período(s):** 2022
@@ -10,7 +10,7 @@ Presença de instalações de Atendimento Hospitalar.
 ## Nível Geográfico: **unidade de saúde**
 
 ## Fonte dos dados
-Cadastro Nacional de Estabelecimentos da saúde (CNES).
+[Cadastro Nacional de Estabelecimentos da saúde (CNES)](https://datasus.saude.gov.br/transferencia-de-arquivos).
 
 ### Link para acesso aos dados brutos
 
