@@ -14,7 +14,7 @@ Cadastro Nacional de Estabelecimentos da saúde (CNES).
 
 ### Link para acesso aos dados brutos
 
-CNES - TabWin
+[CNES - TabWin](https://datasus.saude.gov.br/transferencia-de-arquivos)
 
 ## Código para Processamento em R
 Scripts disponíveis no [repositório GitHub](https://github.com/cem-usp/georedus)
